@@ -52,7 +52,7 @@ body {
   .page-header{
     margin: 0px;
   }
-  #text-header {
+  #text-header1, #text-header2, #text-header3{
     background-color: #222;
     margin-top: 10px;
     padding: 10px;
